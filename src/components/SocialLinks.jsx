@@ -20,7 +20,7 @@ export default function SocialLinks() {
           GitHub
         </a>
         <a
-          href="https://linkedin.com/in/bitturana_ab"
+          href="https://linkedin.com/in/bitturana"
           className="text-blue-500 hover:underline"
           target="_blank"
         >
