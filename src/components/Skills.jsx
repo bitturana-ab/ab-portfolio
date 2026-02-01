@@ -9,8 +9,8 @@ export default function Skills() {
         <div className="bg-blue-100 p-2 rounded">JavaScript</div>
         <div className="bg-blue-100 p-2 rounded">React</div>
         <div className="bg-blue-100 p-2 rounded">Java</div>
-        <div className="bg-blue-100 p-2 rounded">Python</div>
         <div className="bg-blue-100 p-2 rounded">Node.js</div>
+        <div className="bg-blue-100 p-2 rounded">Express.js</div>
         <div className="bg-blue-100 p-2 rounded">HTML/CSS</div>
         <div className="bg-blue-100 p-2 rounded">Tailwind CSS</div>
         <div className="bg-blue-100 p-2 rounded">MongoDB</div>
@@ -18,6 +18,7 @@ export default function Skills() {
         <div className="bg-blue-100 p-2 rounded">MySQL</div>
         <div className="bg-blue-100 p-2 rounded">Git & GitHub</div>
         <div className="bg-blue-100 p-2 rounded">Vite</div>
+        {/* <div className="bg-blue-100 p-2 rounded">React Native || Inonic</div> */}
       </div>
     </section>
   );
